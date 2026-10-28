@@ -10,7 +10,7 @@
 
 Rifare e migliorare l'esperienza d'uso del progetto Calcetto_24_25, con un approccio centrato sull'utente e sui principi di usabilità, accessibilità e progettazione dell'interazione.
 
-## Cosa ho fatto
+## Cosa è stato fatto
 
 - analizzato i requisiti e individuato le esigenze degli utenti;
 - definito profili utente e personas per rappresentare target, competenze e obiettivi;
