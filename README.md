@@ -1,10 +1,12 @@
-# Collaboratori
+# Calcetto v2 - Interazione Persona Calcolatore (HCI)
+
+## Collaboratori
 
 - Matteo Kovacic — [GitHub](https://github.com/MatteoKova)
 - Federico Bagnalasta — [GitHub](https://github.com/FedericoBagnalasta)
 - Samuele Zambelli — [GitHub](https://github.com/sazmb)
 
-# Overview
+## Overview
 
 Questo sito web è stato creato per il corso di Interazione Persona Calolatore (HCI).
 In particolare, si tratta di una rifttorizzazione di "Calcetto_24_25" mediante:
